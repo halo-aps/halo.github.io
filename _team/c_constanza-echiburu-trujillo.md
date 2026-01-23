@@ -1,6 +1,6 @@
 ---
 layout: page
-name: Constanza Echiburú Trujillo
+name: Constanza Echiburú Trujillo (Chile)
 role: Graduate Student
 image: assets/img/team/coni.HEIC
 ---
